@@ -1,4 +1,4 @@
 ComputerVision
 ==============
 
-Python, OpenCV and stuff like that
+Python, OpenCV y cosas de ese estilo.
